@@ -60,7 +60,7 @@ html{
 
 body{
     font-family: var(--main-font-family);
-    background-image: url(/images/fotobak.png);
+    background-image: url(fotobak.png);
     transition: all .75s ease-in-out;
     height: 100vh;
     background-size: cover;
@@ -253,7 +253,7 @@ body{
 .project-section{
     height: auto;
     width: 100%;
-    background-image: url(/images/navyblue.jpg);
+    background-image: url(navyblue.jpg);
 }
 
 .section-header, h1{
