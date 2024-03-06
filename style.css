@@ -511,6 +511,11 @@ textarea{
     }
 
     /* =============== home page ===============  */
+.hero-section .hero-btn{
+        display: inline;
+
+    }
+    
     .header-nav-list{
         top: 50px;
     }
